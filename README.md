@@ -1,5 +1,5 @@
-### Senior Software Engineer
-### Language Agnostic but really Perl sucks a bit!
+- **Senior Software Engineer**
+- **Language Agnostic** but really Perl sucks a bit!
 
 <br/>
 <div style="display: flex; flex-direction: row;">
